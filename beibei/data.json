@@ -1,0 +1,220 @@
+
+{
+    "data" : [
+        {
+            "id" : "1",
+            "img" : "Img1.jpg",
+            "title" : "便携榨汁机充电果汁机迷你摇摇杯1",
+            "price_info" : {
+                "price_num" : "45",
+                "old_price" : "￥65.00",
+                "discount" : "6.6折"
+            },
+            "imgBox" : {
+               " dataArr" : [
+                "images/glass/Img1a.jpg",
+                "images/glass/Img1b.jpg",
+                "images/glass/Img1c.jpg",
+                "images/glass/Img1d.jpg",
+                "images/glass/Img1e.jpg"
+                ]
+            }
+        },
+        {
+            "id" : "2",
+            "img" : "Img2.jpg",
+            "title" : "便携榨汁机充电果汁机迷你摇摇杯2",
+            "price_info" : {
+                "price_num" : "23",
+                "old_price" : "￥55.00",
+                "discount" : "5.5折"
+            },
+            "imgBox" : {
+                " dataArr" : [
+                 "images/glass/Img2a.jpg",
+                 "images/glass/Img2b.jpg",
+                 "images/glass/Img2c.jpg",
+                 "images/glass/Img2d.jpg",
+                 "images/glass/Img2e.jpg"
+                 ]
+             }
+        },
+        {
+            "id" : "3",
+            "img" : "Img3.jpg",
+            "title" : "便携榨汁机充电果汁机迷你摇摇杯3",
+            "price_info" : {
+                "price_num" : "65",
+                "old_price" : "￥85.00",
+                "discount" : "7.6折"
+            },
+            "imgBox" : {
+                " dataArr" : [
+                 "images/glass/Img3a.jpg",
+                 "images/glass/Img3b.jpg",
+                 "images/glass/Img3c.jpg",
+                 "images/glass/Img3d.jpg",
+                 "images/glass/Img3e.jpg"
+                 ]
+             }
+        },
+        {
+            "id" : "4",
+            "img" : "Img4.jpg",
+            "title" : "便携榨汁机充电果汁机迷你摇摇杯4",
+            "price_info" : {
+                "price_num" : "78",
+                "old_price" : "￥90.00",
+                "discount" : "4.6折"
+            },
+            "imgBox" : {
+                " dataArr" : [
+                 "images/glass/Img1a.jpg",
+                 "images/glass/Img2a.jpg",
+                 "images/glass/Img3a.jpg",
+                 "images/glass/Img1c.jpg"
+                 ]
+             }
+        },
+        {
+            "id" : "5",
+            "img" : "Img5.jpg",
+            "title" : "便携榨汁机充电果汁机迷你摇摇杯5",
+            "price_info" : {
+                "price_num" : "88",
+                "old_price" : "￥90.00",
+                "discount" : "4.6折"
+            },
+            "imgBox" : {
+                " dataArr" : [
+                 "images/glass/Img1c.jpg",
+                 "images/glass/Img2c.jpg",
+                 "images/glass/Img3c.jpg",
+                 "images/glass/Img1b.jpg"
+                 ]
+             }
+        },
+        {
+            "id" : "6",
+            "img" : "Img6.jpg",
+            "title" : "便携榨汁机充电果汁机迷你摇摇杯6",
+            "price_info" : {
+                "price_num" : "77",
+                "old_price" : "￥80.00",
+                "discount" : "3.6折"
+            },
+            "imgBox" : {
+                " dataArr" : [
+                 "images/glass/Img1b.jpg",
+                 "images/glass/Img2b.jpg",
+                 "images/glass/Img3b.jpg",
+                 "images/glass/Img1d.jpg"
+                 ]
+             }
+        },
+        {
+            "id" : "7",
+            "img" : "Img7.jpg",
+            "title" : "便携榨汁机充电果汁机迷你摇摇杯7",
+            "price_info" : {
+                "price_num" : "48",
+                "old_price" : "￥90.00",
+                "discount" : "8.6折"
+            },
+            "imgBox" : {
+                " dataArr" : [
+                 "images/glass/Img1a.jpg",
+                 "images/glass/Img2a.jpg",
+                 "images/glass/Img3a.jpg",
+                 "images/glass/Img1c.jpg"
+                 ]
+             }
+        },
+        {
+            "id" : "8",
+            "img" : "Img8.jpg",
+            "title" : "便携榨汁机充电果汁机迷你摇摇杯8",
+            "price_info" : {
+                "price_num" : "48",
+                "old_price" : "￥90.00",
+                "discount" : "6.9折"
+            },
+            "imgBox" : {
+                " dataArr" : [
+                 "images/glass/Img1d.jpg",
+                 "images/glass/Img2d.jpg",
+                 "images/glass/Img3d.jpg",
+                 "images/glass/Img1e.jpg"
+                 ]
+             }
+        },
+        {
+            "id" : "9",
+            "img" : "Img9.jpg",
+            "title" : "便携榨汁机充电果汁机迷你摇摇杯9",
+            "price_info" : {
+                "price_num" : "108",
+                "old_price" : "￥190.00",
+                "discount" : "4.6折"
+            },
+            "imgBox" : {
+                " dataArr" : [
+                 "images/glass/Img1e.jpg",
+                 "images/glass/Img2e.jpg",
+                 "images/glass/Img3e.jpg",
+                 "images/glass/Img1a.jpg"
+                 ]
+             }
+        },
+        {
+            "id" : "10",
+            "img" : "Img10.jpg",
+            "title" : "便携榨汁机充电果汁机迷你摇摇杯10",
+            "price_info" : {
+                "price_num" : "108",
+                "old_price" : "￥190.00",
+                "discount" : "4.6折"
+            },
+            "imgBox" : {
+                " dataArr" : [
+                 "images/glass/Img1a.jpg",
+                 "images/glass/Img1b.jpg",
+                 "images/glass/Img1c.jpg"
+                 ]
+             }
+        },
+        {
+            "id" : "11",
+            "img" : "Img11.jpg",
+            "title" : "便携榨汁机充电果汁机迷你摇摇杯11",
+            "price_info" : {
+                "price_num" : "108",
+                "old_price" : "￥190.00",
+                "discount" : "5.6折"
+            },
+            "imgBox" : {
+                " dataArr" : [
+                 "images/glass/Img2a.jpg",
+                 "images/glass/Img2b.jpg",
+                 "images/glass/Img2c.jpg"
+                 ]
+             }
+        },
+        {
+            "id" : "12",
+            "img" : "Img12.jpg",
+            "title" : "【网红同款】女童多色多款旗袍2019新款复古中国风12",
+            "price_info" : {
+                "price_num" : "208",
+                "old_price" : "￥280.00",
+                "discount" : "6.6折"
+            },
+            "imgBox" : {
+                " dataArr" : [
+                 "images/glass/Img3a.jpg",
+                 "images/glass/Img3b.jpg"
+                 ]
+             }
+        }
+    ]
+}

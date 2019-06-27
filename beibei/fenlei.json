@@ -1,0 +1,473 @@
+{
+    "lei1":{
+        "name" : "热销分类",
+        "list" : [
+            {
+                "id" : "1",
+                "title" : "纸尿裤",
+                "img" : "lei1img1.jpg"
+            },
+            {
+                "id" : "2",
+                "title" : "奶瓶",
+                "img" : "lei1img2.jpg"
+            },
+            {
+                "id" : "3",
+                "title" : "益智早教",
+                "img" : "lei1img3.jpg"
+            },
+            {
+                "id" : "4",
+                "title" : "奶粉",
+                "img" : "lei1img4.jpg"
+            },
+            {
+                "id" : "1",
+                "title" : "纸尿裤",
+                "img" : "lei1img1.jpg"
+            },
+            {
+                "id" : "2",
+                "title" : "奶瓶",
+                "img" : "lei1img2.jpg"
+            },
+            {
+                "id" : "3",
+                "title" : "益智早教",
+                "img" : "lei1img3.jpg"
+            },
+            {
+                "id" : "4",
+                "title" : "奶粉",
+                "img" : "lei1img4.jpg"
+            },
+            {
+                "id" : "1",
+                "title" : "纸尿裤",
+                "img" : "lei1img1.jpg"
+            },
+            {
+                "id" : "2",
+                "title" : "奶瓶",
+                "img" : "lei1img2.jpg"
+            },
+            {
+                "id" : "3",
+                "title" : "益智早教",
+                "img" : "lei1img3.jpg"
+            },
+            {
+                "id" : "4",
+                "title" : "奶粉",
+                "img" : "lei1img4.jpg"
+            }
+        ]
+    },
+    "lei2":{
+        "name" : "儿童服饰",
+        "list" : [
+            {
+                "id" : "1",
+                "title" : "套装",
+                "img" : "lei2img1.jpg"
+            },
+            {
+                "id" : "2",
+                "title" : "毛衣",
+                "img" : "lei2img2.jpg"
+            },
+            {
+                "id" : "3",
+                "title" : "粉衣",
+                "img" : "lei2img3.jpg"
+            },
+            {
+                "id" : "4",
+                "title" : "短袖",
+                "img" : "lei2img4.jpg"
+            },
+            {
+                "id" : "5",
+                "title" : "套装",
+                "img" : "lei2img1.jpg"
+            },
+            {
+                "id" : "6",
+                "title" : "毛衣",
+                "img" : "lei2img2.jpg"
+            },
+            {
+                "id" : "7",
+                "title" : "粉衣",
+                "img" : "lei2img3.jpg"
+            },
+            {
+                "id" : "8",
+                "title" : "短袖",
+                "img" : "lei2img4.jpg"
+            },
+            {
+                "id" : "9",
+                "title" : "套装",
+                "img" : "lei2img1.jpg"
+            },
+            {
+                "id" : "10",
+                "title" : "毛衣",
+                "img" : "lei2img2.jpg"
+            },
+            {
+                "id" : "11",
+                "title" : "粉衣",
+                "img" : "lei2img3.jpg"
+            },
+            {
+                "id" : "12",
+                "title" : "短袖",
+                "img" : "lei2img4.jpg"
+            },
+            {
+                "id" : "13",
+                "title" : "套装",
+                "img" : "lei2img1.jpg"
+            },
+            {
+                "id" : "14",
+                "title" : "毛衣",
+                "img" : "lei2img2.jpg"
+            },
+            {
+                "id" : "15",
+                "title" : "粉衣",
+                "img" : "lei2img3.jpg"
+            }
+        ]
+    },
+    "lei3":{
+        "name" : "婴儿装",
+        "list" : [
+            {
+                "id" : "1",
+                "title" : "套装",
+                "img" : "lei3img1.jpg"
+            },
+            {
+                "id" : "2",
+                "title" : "毛衣",
+                "img" : "lei3img2.jpg"
+            },
+            {
+                "id" : "3",
+                "title" : "粉衣",
+                "img" : "lei3img3.jpg"
+            },
+            {
+                "id" : "4",
+                "title" : "短袖",
+                "img" : "lei3img4.jpg"
+            },
+            {
+                "id" : "5",
+                "title" : "套装",
+                "img" : "lei3img1.jpg"
+            },
+            {
+                "id" : "6",
+                "title" : "毛衣",
+                "img" : "lei3img2.jpg"
+            },
+            {
+                "id" : "7",
+                "title" : "粉衣",
+                "img" : "lei3img3.jpg"
+            },
+            {
+                "id" : "8",
+                "title" : "短袖",
+                "img" : "lei3img4.jpg"
+            },
+            {
+                "id" : "9",
+                "title" : "套装",
+                "img" : "lei3img1.jpg"
+            },
+            {
+                "id" : "10",
+                "title" : "毛衣",
+                "img" : "lei3img2.jpg"
+            },
+            {
+                "id" : "11",
+                "title" : "粉衣",
+                "img" : "lei3img3.jpg"
+            },
+            {
+                "id" : "12",
+                "title" : "短袖",
+                "img" : "lei3img4.jpg"
+            }
+        ]
+    },
+    "lei4":{
+        "name" : "婴儿鞋",
+        "list" : [
+            {
+                "id" : "1",
+                "title" : "鞋子",
+                "img" : "lei4img1.jpg"
+            },
+            {
+                "id" : "2",
+                "title" : "凉鞋",
+                "img" : "lei4img2.jpg"
+            },
+            {
+                "id" : "3",
+                "title" : "球鞋",
+                "img" : "lei4img3.jpg"
+            },
+            {
+                "id" : "4",
+                "title" : "黑鞋",
+                "img" : "lei4img4.jpg"
+            }
+        ]
+    },
+    "lei5":{
+        "name" : "奶粉辅食",
+        "list" : [
+            {
+                "id" : "1",
+                "title" : "纸尿裤",
+                "img" : "lei1img1.jpg"
+            },
+            {
+                "id" : "2",
+                "title" : "奶瓶",
+                "img" : "lei1img2.jpg"
+            },
+            {
+                "id" : "3",
+                "title" : "益智早教",
+                "img" : "lei1img3.jpg"
+            },
+            {
+                "id" : "4",
+                "title" : "奶粉",
+                "img" : "lei1img4.jpg"
+            },
+            {
+                "id" : "1",
+                "title" : "纸尿裤",
+                "img" : "lei1img1.jpg"
+            },
+            {
+                "id" : "2",
+                "title" : "奶瓶",
+                "img" : "lei1img2.jpg"
+            },
+            {
+                "id" : "3",
+                "title" : "益智早教",
+                "img" : "lei1img3.jpg"
+            },
+            {
+                "id" : "4",
+                "title" : "奶粉",
+                "img" : "lei1img4.jpg"
+            },
+            {
+                "id" : "1",
+                "title" : "纸尿裤",
+                "img" : "lei1img1.jpg"
+            },
+            {
+                "id" : "2",
+                "title" : "奶瓶",
+                "img" : "lei1img2.jpg"
+            },
+            {
+                "id" : "3",
+                "title" : "益智早教",
+                "img" : "lei1img3.jpg"
+            },
+            {
+                "id" : "4",
+                "title" : "奶粉",
+                "img" : "lei1img4.jpg"
+            }
+        ]
+    },
+    "lei6":{
+        "name" : "纸尿裤",
+        "list" : [
+            {
+                "id" : "1",
+                "title" : "套装",
+                "img" : "lei2img1.jpg"
+            },
+            {
+                "id" : "2",
+                "title" : "毛衣",
+                "img" : "lei2img2.jpg"
+            },
+            {
+                "id" : "3",
+                "title" : "粉衣",
+                "img" : "lei2img3.jpg"
+            },
+            {
+                "id" : "4",
+                "title" : "短袖",
+                "img" : "lei2img4.jpg"
+            },
+            {
+                "id" : "5",
+                "title" : "套装",
+                "img" : "lei2img1.jpg"
+            },
+            {
+                "id" : "6",
+                "title" : "毛衣",
+                "img" : "lei2img2.jpg"
+            },
+            {
+                "id" : "7",
+                "title" : "粉衣",
+                "img" : "lei2img3.jpg"
+            },
+            {
+                "id" : "8",
+                "title" : "短袖",
+                "img" : "lei2img4.jpg"
+            },
+            {
+                "id" : "9",
+                "title" : "套装",
+                "img" : "lei2img1.jpg"
+            },
+            {
+                "id" : "10",
+                "title" : "毛衣",
+                "img" : "lei2img2.jpg"
+            },
+            {
+                "id" : "11",
+                "title" : "粉衣",
+                "img" : "lei2img3.jpg"
+            },
+            {
+                "id" : "12",
+                "title" : "短袖",
+                "img" : "lei2img4.jpg"
+            },
+            {
+                "id" : "13",
+                "title" : "套装",
+                "img" : "lei2img1.jpg"
+            },
+            {
+                "id" : "14",
+                "title" : "毛衣",
+                "img" : "lei2img2.jpg"
+            },
+            {
+                "id" : "15",
+                "title" : "粉衣",
+                "img" : "lei2img3.jpg"
+            }
+        ]
+    },
+    "lei7":{
+        "name" : "哺育喂养",
+        "list" : [
+            {
+                "id" : "1",
+                "title" : "套装",
+                "img" : "lei3img1.jpg"
+            },
+            {
+                "id" : "2",
+                "title" : "毛衣",
+                "img" : "lei3img2.jpg"
+            },
+            {
+                "id" : "3",
+                "title" : "粉衣",
+                "img" : "lei3img3.jpg"
+            },
+            {
+                "id" : "4",
+                "title" : "短袖",
+                "img" : "lei3img4.jpg"
+            },
+            {
+                "id" : "5",
+                "title" : "套装",
+                "img" : "lei3img1.jpg"
+            },
+            {
+                "id" : "6",
+                "title" : "毛衣",
+                "img" : "lei3img2.jpg"
+            },
+            {
+                "id" : "7",
+                "title" : "粉衣",
+                "img" : "lei3img3.jpg"
+            },
+            {
+                "id" : "8",
+                "title" : "短袖",
+                "img" : "lei3img4.jpg"
+            },
+            {
+                "id" : "9",
+                "title" : "套装",
+                "img" : "lei3img1.jpg"
+            },
+            {
+                "id" : "10",
+                "title" : "毛衣",
+                "img" : "lei3img2.jpg"
+            },
+            {
+                "id" : "11",
+                "title" : "粉衣",
+                "img" : "lei3img3.jpg"
+            },
+            {
+                "id" : "12",
+                "title" : "短袖",
+                "img" : "lei3img4.jpg"
+            }
+        ]
+    },
+    "lei8":{
+        "name" : "洗护清洁",
+        "list" : [
+            {
+                "id" : "1",
+                "title" : "鞋子",
+                "img" : "lei4img1.jpg"
+            },
+            {
+                "id" : "2",
+                "title" : "凉鞋",
+                "img" : "lei4img2.jpg"
+            },
+            {
+                "id" : "3",
+                "title" : "球鞋",
+                "img" : "lei4img3.jpg"
+            },
+            {
+                "id" : "4",
+                "title" : "黑鞋",
+                "img" : "lei4img4.jpg"
+            }
+        ]
+    }
+
+}
